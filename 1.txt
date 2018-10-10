@@ -1,1 +1,7 @@
 my git file:
+
+i am edited this file to make some change 
+
+
+
+..........................
